@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on : **a SaaS Template**
 
-- 🌱 I’m currently learning : **React, Rust, Python (Machine Learning and DataScience))**
+- 🌱 I’m currently learning : **React, Rust, Python (Machine Learning and DataScience)**
 
 - 👨‍💻 All of my projects are available at : [ryveweb.fr](https://ryveweb.fr) and my [Github Profile](https://github.com/Ryvexam)
 
