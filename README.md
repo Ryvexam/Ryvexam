@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxime VERY</h1>
 <h3 align="center">Junior Developer (Web)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryvexam&label=Profile%20views&color=0e75b6&style=flat" alt="ryvexam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryvexam&label=Profile%20views&color=0e75b6&theme=onedark" alt="ryvexam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryvexam" alt="ryvexam" /></a> </p>
 
