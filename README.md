@@ -17,7 +17,7 @@
 
 - 🧔 Know about me : **I am very curious and enjoy being versatile. I like to learn all kinds of programming languages and frameworks, especially the newest ones**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/maxime-very" target="_blank">LinkedIn</a></h3>
 <p align="left">
 </p>
 
