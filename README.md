@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxime VERY</h1>
-<h3 align="center">Junior Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryvexam&label=Profile%20views&color=0e75b6&theme=onedark" alt="ryvexam" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on : **Too much small projects**
 
-- 🌱 I’m currently learning : **React, Symfony, .NET and how to managed properly projects**
+- 🌱 I’m currently learning : **React, Symfony, Typescript and how to managed properly projects**
 
 - 👨‍💻 All of my projects are available at : [ryveweb.fr](https://ryveweb.fr) (in creation) and my [Github Profile](https://github.com/Ryvexam)
 
 - 📫 Reach me by email : [**maximevery@ryvexam.fr**](mailto:maximevery@ryvexam.fr)
 
-- 📄 Know about my experiences : Previously Trainee Network Infrastructure Technician at [JolyInformatique (now Tert.io)](https://tert.io) and also Trainee Python Software Developper at [Michelin](https://michelin.fr) but now Trainee Digital Project Manager with PowerBi, PowerApps at [Michelin](https://michelin.fr)
+- 📄 Know about my experiences : Previously Trainee Network Infrastructure Technician at [JolyInformatique (now Tert.io)](https://tert.io) and actually Trainee in Automatisation, Centralisation in the scope of Security By Design at [Michelin](https://michelin.fr))
 
 - 🧔 Know about me : **I am very curious and enjoy being versatile. I like to learn all kinds of programming languages and frameworks, especially the newest ones**
 
