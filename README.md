@@ -1,32 +1,94 @@
-<h1 align="center">Hi 👋, I'm Maxime VERY</h1>
-<h3 align="center">Developer</h3>
+# 👋 Hi, I'm Maxime
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryvexam&label=Profile%20views&color=0e75b6&theme=onedark" alt="ryvexam" /> </p>
+[![Portfolio ryvexam.fr](https://img.shields.io/badge/Portfolio-ryvexam.fr-blue?style=for-the-badge)](https://ryvexam.fr)
+[![Freelance ryveweb.fr](https://img.shields.io/badge/Freelance-ryveweb.fr-purple?style=for-the-badge)](https://ryveweb.fr)
+[![Blog ryveIT.com](https://img.shields.io/badge/Blog-ryveIT.com-green?style=for-the-badge)](https://ryveit.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryvexam" alt="ryvexam" /></a> </p>
-
-- 🔭 I’m currently working on : **Too much small projects**
-
-- 🌱 I’m currently learning : **React, Symfony, Typescript and how to managed properly projects**
-
-- 👨‍💻 All of my projects are available at : [ryveweb.fr](https://ryveweb.fr) (in creation) and my [Github Profile](https://github.com/Ryvexam)
-
-- 📫 Reach me by email : [**maximevery@ryvexam.fr**](mailto:maximevery@ryvexam.fr)
-
-- 📄 Know about my experiences : Previously Trainee Network Infrastructure Technician at [JolyInformatique (now Tert.io)](https://tert.io) and actually Trainee in Automatisation, Centralisation in the scope of Security By Design at [Michelin](https://michelin.fr))
-
-- 🧔 Know about me : **I am very curious and enjoy being versatile. I like to learn all kinds of programming languages and frameworks, especially the newest ones**
-
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/maxime-very" target="_blank">LinkedIn</a></h3>
+<!-- Profile views and GitHub trophies -->
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ryvexam&label=Profile%20views&color=0e75b6&theme=onedark" alt="ryvexam" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ryvexam" alt="ryvexam" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryvexam&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ryvexam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryvexam&show_icons=true&theme=onedark&locale=en" alt="ryvexam" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryvexam&theme=dark" alt="ryvexam" /></p>
+I'm **Maxime**, a software engineer in apprenticeship and freelance web developer, passionate about **data science**, **full-stack development**, and cloud computing.  
+I currently work at **Michelin** in the *Security by Design* team, automating security processes and managing assets with Python and Docker.
 
+On the side:  
+- I build modern websites and applications via **[RyveWeb.fr](https://ryveweb.fr)**  
+- I share IT news and insights on **[RyveIT.com](https://ryveit.com)**  
+- I showcase my projects and portfolio on **[Ryvexam.fr](https://ryvexam.fr)**  
+- I am exploring **AI integration into workflows** using the technologies I work with to create smarter, more efficient solutions.
+
+---
+
+## 🧠 Skills & Expertise
+
+### 💻 Development
+- **Python** → automation, scripting, internal tools  
+- **JavaScript / TypeScript** → front-end & back-end development  
+- **React / Next.js** → dynamic and performant web applications  
+- **Tailwind CSS** → responsive UI and modern design systems  
+- **Streamlit / Jupyter** → interactive dashboards, notebooks, data visualization  
+
+### 📊 Data Science & Cloud
+- Data cleaning & analysis (Pandas, NumPy, Scikit-learn)  
+- Interactive dashboards and visualizations (Streamlit, Plotly)  
+- Cloud data platforms: **Azure Databricks**, Python notebooks, Spark  
+- Machine learning pipelines and exploratory data analysis  
+
+### 🐳 DevOps & Infrastructure
+- Containerization & orchestration: **Docker**, basic **Kubernetes**  
+- CI/CD: **GitHub Actions**, **GitLab CI**  
+- Automation of workflows and pipelines  
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+
+---
+
+## 🌐 My Online Projects
+
+| 🌍 Site | 🧩 Description | 🔗 Link |
+|---------|----------------|---------|
+| **Ryvexam.fr** | Personal portfolio — projects, experience, and experiments | [Visit](https://ryvexam.fr) |
+| **RyveWeb.fr** | Freelance web services — websites, hosting, automation | [Visit](https://ryveweb.fr) |
+| **RyveIT.com** | IT blog & news — tech trends, security, data science | [Visit](https://ryveit.com) |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryvexam&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contact
+
+📧 **Email**: maximevery@ryvexam.fr  
+💼 **LinkedIn**: [https://www.linkedin.com/in/maxime-very/](https://www.linkedin.com/in/maxime-very/)
+
+---
+
+> “Automation isn’t about saving time. It’s about making your time useful.” 🧩  
