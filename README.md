@@ -1,94 +1,207 @@
-# 👋 Hi, I'm Maxime
+<div align="center">
 
-[![Portfolio ryvexam.fr](https://img.shields.io/badge/Portfolio-ryvexam.fr-blue?style=for-the-badge)](https://ryvexam.fr)
-[![Freelance ryveweb.fr](https://img.shields.io/badge/Freelance-ryveweb.fr-purple?style=for-the-badge)](https://ryveweb.fr)
-[![Blog ryveIT.com](https://img.shields.io/badge/Blog-ryveIT.com-green?style=for-the-badge)](https://ryveit.com)
+```text
+██▀███  ▓██   ██▓ ██▒   █▓▓█████ ▒██   ██▒ ▄▄▄       ███▄ ▄███▓
+▓██ ▒ ██▒▒██  ██▒▓██░   █▒▓█   ▀ ▒▒ █ █ ▒░▒████▄    ▓██▒▀█▀ ██▒
+▓██ ░▄█ ▒ ▒██ ██░ ▓██  █▒░▒███   ░░  █   ░▒██  ▀█▄  ▓██    ▓██░
+▒██▀▀█▄   ░ ▐██▓░  ▒██ █░░▒▓█  ▄  ░ █ █ ▒ ░██▄▄▄▄██ ▒██    ▒██
+░██▓ ▒██▒ ░ ██▒▓░   ▒▀█░  ░▒████▒▒██▒ ▒██▒ ▓█   ▓██▒▒██▒   ░██▒
+```
 
-<!-- Profile views and GitHub trophies -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ryvexam&label=Profile%20views&color=0e75b6&theme=onedark" alt="ryvexam" />
-</p>
+### Maxime
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ryvexam" alt="ryvexam" />
-  </a>
-</p>
+**Software Engineer · DevSecOps · Agentic Development**
 
----
+![Agentic Development](https://img.shields.io/badge/FOCUS-Agentic_Development-7C3AED?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/SECURITY-DevSecOps-E11D48?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/OPEN_SOURCE-185K%2B_DOWNLOADS-16A34A?style=for-the-badge)
 
-## 🚀 About Me
+<br>
 
-I'm **Maxime**, a software engineer in apprenticeship and freelance web developer, passionate about **data science**, **full-stack development**, and cloud computing.  
-I currently work at **Michelin** in the *Security by Design* team, automating security processes and managing assets with Python and Docker.
+[![Website](https://img.shields.io/badge/ryvexam.fr-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://ryvexam.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maxime_Very-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maxime-very/)
 
-On the side:  
-- I build modern websites and applications via **[RyveWeb.fr](https://ryveweb.fr)**  
-- I share IT news and insights on **[RyveIT.com](https://ryveit.com)**  
-- I showcase my projects and portfolio on **[Ryvexam.fr](https://ryvexam.fr)**  
-- I am exploring **AI integration into workflows** using the technologies I work with to create smarter, more efficient solutions.
+</div>
 
 ---
 
-## 🧠 Skills & Expertise
+## About
 
-### 💻 Development
-- **Python** → automation, scripting, internal tools  
-- **JavaScript / TypeScript** → front-end & back-end development  
-- **React / Next.js** → dynamic and performant web applications  
-- **Tailwind CSS** → responsive UI and modern design systems  
-- **Streamlit / Jupyter** → interactive dashboards, notebooks, data visualization  
+I'm a software engineer focused on **DevSecOps, automation and agentic development**.
 
-### 📊 Data Science & Cloud
-- Data cleaning & analysis (Pandas, NumPy, Scikit-learn)  
-- Interactive dashboards and visualizations (Streamlit, Plotly)  
-- Cloud data platforms: **Azure Databricks**, Python notebooks, Spark  
-- Machine learning pipelines and exploratory data analysis  
+I currently work on cybersecurity and automation inside a large **CAC 40 industrial group**.
 
-### 🐳 DevOps & Infrastructure
-- Containerization & orchestration: **Docker**, basic **Kubernetes**  
-- CI/CD: **GitHub Actions**, **GitLab CI**  
-- Automation of workflows and pipelines  
+Most of my personal experiments revolve around one idea:
 
----
+> **The agent should know the codebase. I should know what the product is supposed to do.**
 
-## 🧰 Tech Stack
+I want AI to understand repositories, implement from specifications, test its work and be challenged by other agents and automated security checks before anything gets merged.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+<div align="center">
+
+![Spec](https://img.shields.io/badge/SPEC-Define-7C3AED?style=flat-square)
+→
+![Build](https://img.shields.io/badge/AI-Build-2563EB?style=flat-square)
+→
+![Review](https://img.shields.io/badge/AI-Review-8B5CF6?style=flat-square)
+→
+![Pentest](https://img.shields.io/badge/AI-Pentest-E11D48?style=flat-square)
+→
+![Verify](https://img.shields.io/badge/CI-Verify-F59E0B?style=flat-square)
+→
+![Ship](https://img.shields.io/badge/HUMAN-Ship-16A34A?style=flat-square)
+
+</div>
 
 ---
 
-## 🌐 My Online Projects
+## Selected work
 
-| 🌍 Site | 🧩 Description | 🔗 Link |
-|---------|----------------|---------|
-| **Ryvexam.fr** | Personal portfolio — projects, experience, and experiments | [Visit](https://ryvexam.fr) |
-| **RyveWeb.fr** | Freelance web services — websites, hosting, automation | [Visit](https://ryveweb.fr) |
-| **RyveIT.com** | IT blog & news — tech trends, security, data science | [Visit](https://ryveit.com) |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🤖 Agentic Development
+
+Exploring development workflows where agents can:
+
+* understand existing repositories
+* implement from specifications
+* use tools and documentation
+* review other agents
+* test and pentest their own output
+* iterate until automated checks pass
+
+`Agents` `LLMs` `MCP` `Automation`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎮 Minecraft / Cobblemon
+
+Published Minecraft projects including **Cobblemon Economy** and **Safari Cobblemon**.
+
+<div align="center">
+
+![Modrinth](https://img.shields.io/badge/Modrinth-44K%2B-00AF5C?style=flat-square\&logo=modrinth\&logoColor=white)
+![CurseForge](https://img.shields.io/badge/CurseForge-141K%2B-F16436?style=flat-square\&logo=curseforge\&logoColor=white)
+
+### 185K+ downloads
+
+</div>
+
+`Java` `Minecraft` `Open Source`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧰 Self-hosting & Automation
+
+Running and experimenting with my own infrastructure around:
+
+* Proxmox
+* Docker
+* self-hosted services
+* AI agents
+* infrastructure automation
+
+Because apparently clicking buttons manually is unacceptable.
+
+`Linux` `Docker` `Proxmox` `Automation`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## What I'm interested in
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryvexam&theme=tokyonight&hide_border=true)
+<div align="center">
+
+![Coding Agents](https://img.shields.io/badge/Coding_Agents-7C3AED?style=for-the-badge)
+![AI Pentesting](https://img.shields.io/badge/AI_Pentesting-E11D48?style=for-the-badge)
+![Security Automation](https://img.shields.io/badge/Security_Automation-F97316?style=for-the-badge)
+
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-2563EB?style=flat-square)
+![Developer Tooling](https://img.shields.io/badge/Developer_Tooling-0891B2?style=flat-square)
+![Self Hosting](https://img.shields.io/badge/Self_Hosting-374151?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open_Source-16A34A?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-F59E0B?style=flat-square)
+
+</div>
 
 ---
 
-## 📫 Contact
+## Across the stack
 
-📧 **Email**: maximevery@ryvexam.fr  
-💼 **LinkedIn**: [https://www.linkedin.com/in/maxime-very/](https://www.linkedin.com/in/maxime-very/)
+I'm intentionally comfortable across the whole stack because I think modern development is becoming less about **knowing every line of code** and more about understanding **architecture, boundaries, data flows and core concepts**.
+
+The agent can learn the codebase from its documentation and repository context. My job is to understand the system well enough to **specify what it should become and verify that it gets there safely**.
 
 ---
 
-> “Automation isn’t about saving time. It’s about making your time useful.” 🧩  
+## Toolbox
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square\&logo=astro\&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square\&logo=proxmox\&logoColor=white)
+
+</div>
+
+---
+
+## Open source
+
+> **If it's open source and cool, there's basically a 0% chance I haven't forked it already.**
+
+Usually it goes something like:
+
+```text
+find cool project
+      ↓
+fork it
+      ↓
+"just one small change"
+      ↓
+three features later
+      ↓
+why am I maintaining this now?
+```
+
+---
+
+> **I strongly believe every 30-minute manual task deserves at least three hours of automation.**
+
+And more seriously:
+
+> **If I'm going to spend a huge part of my life building things, I'd rather build things I think are worth it.**
+
+---
+
+<div align="center">
+
+[![Ryvexam](https://img.shields.io/badge/RYVEXAM-Personal-111111?style=for-the-badge)](https://ryvexam.fr)
+[![RyveWeb](https://img.shields.io/badge/RYVEWEB-Custom_IT-7C3AED?style=for-the-badge)](https://ryveweb.fr)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Maxime_Very-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/maxime-very/)
+
+<br><br>
+
+**DevSecOps by day, builder at night.**
+
+</div>
